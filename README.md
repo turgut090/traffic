@@ -28,5 +28,6 @@ Dashboard, Bakı-Abşeron bölgəsindəki nəqliyyat vəziyyətini izləmək və
   - **10-20 km/h**
   - **20-30 km/h**
   - **>30 km/h**
+  - bew
 
 
